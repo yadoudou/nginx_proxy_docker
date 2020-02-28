@@ -2,7 +2,7 @@
 An nginx proxy support https based on docker
 
 # clone this repositories 
-git clone https://github.com/wll-zhou/nginx_proxy_docker.git
+git clone https://github.com/yadoudou/nginx_proxy_docker.git
 
 # build image
  docker build -t nginx:proxy_1.17.4 .
